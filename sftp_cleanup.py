@@ -2,6 +2,7 @@
 
 # script to remove files and dirs from sftp servers older than $max_file_age param
 # it remove recursively with sub dirs
+# script connect to sftp server using ssh key
 
 # docs https://docs.paramiko.org/en/stable/api/sftp.html
 
